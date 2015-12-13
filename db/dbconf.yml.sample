@@ -1,0 +1,3 @@
+development:
+    driver: postgres
+    open: user=devton dbname=devton_dev sslmode=disable host=localhost
